@@ -4,7 +4,7 @@ A wide, low-contrast sans-serif in five static weights. Kronb is an independent,
 
 ## Preview
 
-https://github.com/user-attachments/assets/6e9a11e7-689f-450a-9c2e-078567243760
+https://github.com/user-attachments/assets/f1d15b11-8c71-47c9-988e-e6039ce9c193
 
 [Film file (MP4, 11.5 seconds)](media/kronb-five-weights.mp4) · [Browse all eight character sheets](specimens/README.md)
 
