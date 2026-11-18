@@ -2,6 +2,20 @@
 
 A wide, low-contrast sans-serif in five static weights. Kronb is an independent, unofficial extension of [Krona One](https://fonts.google.com/specimen/Krona+One).
 
+## Preview
+
+https://github.com/user-attachments/assets/6e9a11e7-689f-450a-9c2e-078567243760
+
+[Film file (MP4, 11.5 seconds)](media/kronb-five-weights.mp4) · [Browse all eight character sheets](specimens/README.md)
+
+### Selected glyphs
+
+Read each row from Light 300 to Bold 700. The shaded 600 column shows the original Krona One drawing.
+
+<a href="specimens/selected-glyphs.png"><img src="specimens/selected-glyphs.png" width="580" alt="Fifteen letters, numerals, ligatures and symbols compared across five weights from 300 to 700"></a>
+
+## Weights
+
 | Weight | Style |
 | --- | --- |
 | 300 | Light |
